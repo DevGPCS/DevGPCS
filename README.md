@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevGPCS : Gustavo Pinheiro Camargos Silveira - Engenheiro de Controle e Automação, trabalho em Desenvolvimento de Produto, especializado em Software Embarcado
+- 👋 Hi, I’m @DevGPCS
 - 💞️ I’m looking to collaborate on EmbraerS/A
 - 📫 How to reach me gustavo.silveira@embraer.com.br
 
